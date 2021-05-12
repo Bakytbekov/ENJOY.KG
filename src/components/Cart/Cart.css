@@ -1,0 +1,10 @@
+td{
+    padding: 15px 0;
+    border-bottom: 1px solid gray;
+}
+.cart td{
+    padding: 10px 50px;
+}
+.asd{
+    background: white;
+}

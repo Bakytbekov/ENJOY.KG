@@ -1,0 +1,9 @@
+.viza{
+    /* margin-left: 200px; */
+    background: linear-gradient(
+        90deg,
+        rgb(127, 185, 185) 0%,
+        rgb(173, 157, 10) 100%
+    );
+    color: white;
+}

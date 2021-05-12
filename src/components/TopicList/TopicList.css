@@ -1,0 +1,18 @@
+.list{
+    background: url('https://s1.1zoom.ru/big0/210/Germany_Houses_Marinas_Lighthouses_Monuments_593298_1280x700.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flow-root;
+    padding-bottom: 40px;
+
+}
+.list-div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+/* .list{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    
+} */

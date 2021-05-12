@@ -1,0 +1,15 @@
+.inps{
+    background: rgb(33, 66, 53);
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.inps>button{
+    width: 100px;
+    height: 30px;
+    background-color: rgb(52, 109, 86);
+    border-radius: 2px;
+    font-family: "Montserrat";
+    color: white;
+    box-shadow: 0 0 15px rgba(0,0,0,0.8);
+    border: none;
+}
